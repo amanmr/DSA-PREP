@@ -10,7 +10,7 @@ class graph
     map<t, list<t>> g;
 
 public:
-    void addEdge(t x, t y)
+    void addEdge(t x, t y) 
     {
         g[x].push_back(y);
         g[y].push_back(x);
