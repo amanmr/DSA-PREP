@@ -1,11 +1,10 @@
 #include<iostream>
 #include<stack>
 #include<queue>
-#include<vector>
-#include<algorithm>
+
 #include<string>
 #include<list>
-#include<deque>
+
 #include<map>
 #include<unordered_map>
 using namespace std;
