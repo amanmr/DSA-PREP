@@ -2,7 +2,7 @@
 //What are the ways to arranrge these two tiles on the given wall.
 #include<iostream>
 using namespace std;
-
+ 
 int ways(int n){
     if(n==0){
         return 1;
